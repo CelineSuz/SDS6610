@@ -1,0 +1,6 @@
+title: "HW3: NBA Games, Sitting, Simple Linear Regression"
+---
+
+## NBA Schedule Visualization
+
+![NBA Schedule by Division](img/NBA_Schedule_by_Division.jpg)
